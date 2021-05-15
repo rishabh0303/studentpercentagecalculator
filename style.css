@@ -1,0 +1,93 @@
+.container{
+
+    padding: 2%;
+
+
+
+}
+.shruti{
+    background-image: linear-gradient(skyblue, lightgreen);
+}
+.rishabh{
+    padding: 4%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+}
+.eng{
+    
+    width: 30em;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.phy{
+    
+    width: 30em;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+
+}
+.chem{
+    
+    width: 30em;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.maths{
+    
+    width: 30em;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.cs{
+    
+    width: 30em;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+#papa{
+    background-color:black;
+    
+}
+#rk{
+background-color:darkturquoise;
+padding: 2.5%;
+
+}
+.hk{
+ font-size: 2em;
+ color: seashell;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.sk{
+    background-color: royalblue;
+}
+.ayush{
+    font-size: 2em;
+    color: seashell;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.body{
+    padding: 2%;
+}
+.whit{
+    background-color: whitesmoke;
+    color: black;
+}
+#pass{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#percent{
+    font-size: 2em;
+    color: seashell;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#grade{
+    font-size: 2em;
+    color: seashell;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#pk{
+    padding: 1%;
+}
